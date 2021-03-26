@@ -33,7 +33,6 @@ body {
     font-weight: 600;
 }
 
-/* Content */
 #content{
     background-color: #1BBC9B;
     color: white;
@@ -57,7 +56,6 @@ body {
     text-align: center;
 }
 
-/* Form */
 #form h2 {
     color: #30414E;
     display: flex;
@@ -94,3 +92,4 @@ body {
     padding: 1.5vh;
     margin-bottom: 2.5vh;
 }
+
